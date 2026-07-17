@@ -1,8 +1,5 @@
 8<div align="center">
   
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gamelord24/hacksaw-source-codes/main/file_00000000d41c71f4ba2a92a3523b6222.png" width="100%">
-</div>
 
 
   # 🎰 Gamelord: Premium Hacksaw Gaming Source Code Collection
