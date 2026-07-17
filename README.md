@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
   
   ![Gamelord Banner](ضع_رابط_الصورة_هنا)
 
